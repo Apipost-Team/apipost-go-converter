@@ -19,4 +19,5 @@
 
 # Go workspace file
 go.work
-buildjs
+buildjs/dist
+buildjs/node_modules
